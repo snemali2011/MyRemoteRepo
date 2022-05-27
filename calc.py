@@ -1,2 +1,2 @@
 def add(a,b):
-    pass
+    (y+x)
